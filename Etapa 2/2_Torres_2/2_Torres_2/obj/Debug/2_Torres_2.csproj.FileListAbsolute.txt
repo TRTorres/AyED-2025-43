@@ -1,0 +1,3 @@
+C:\Users\alumno\Desktop\AyED-2025\Etapa 2\2_Torres_2\2_Torres_2\bin\Debug\2_Torres_2.exe.config
+C:\Users\alumno\Desktop\AyED-2025\Etapa 2\2_Torres_2\2_Torres_2\obj\Debug\2_Torres_2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\AyED-2025\Etapa 2\2_Torres_2\2_Torres_2\obj\Debug\2_Torres_2.exe

@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\bin\Debug\3_Torres_3.exe.config
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\bin\Debug\3_Torres_3.exe
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\bin\Debug\3_Torres_3.pdb
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\obj\Debug\3_Torres_3.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\obj\Debug\3_Torres_3.exe
+C:\Users\alumno\Desktop\AyED-2025\Etapa 3\3_Torres_3\3_Torres_3\obj\Debug\3_Torres_3.pdb

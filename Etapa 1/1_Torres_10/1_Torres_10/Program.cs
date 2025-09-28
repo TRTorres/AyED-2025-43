@@ -1,6 +1,6 @@
 ﻿using System;
 
-class FizzBuzz
+class Program
 {
     static void Main()
     {
@@ -25,3 +25,4 @@ class FizzBuzz
         }
     }
 }
+

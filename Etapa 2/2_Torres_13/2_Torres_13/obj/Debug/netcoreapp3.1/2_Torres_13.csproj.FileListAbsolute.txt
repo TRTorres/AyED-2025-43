@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.exe
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.deps.json
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.runtimeconfig.json
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.dll
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\bin\Debug\netcoreapp3.1\2_Torres_13.pdb
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.dll
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.pdb
+C:\Users\Usuario\Desktop\AyED-2025\Etapa 2\2_Torres_13\2_Torres_13\obj\Debug\netcoreapp3.1\2_Torres_13.genruntimeconfig.cache

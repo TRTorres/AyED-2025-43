@@ -1,5 +1,0 @@
-C:\Users\alumno\Documents\Visual Studio 2015\Projects\5_Torres_3\5_Torres_3\bin\Debug\5_Torres_3.exe.config
-C:\Users\alumno\Documents\Visual Studio 2015\Projects\5_Torres_3\5_Torres_3\bin\Debug\5_Torres_3.exe
-C:\Users\alumno\Documents\Visual Studio 2015\Projects\5_Torres_3\5_Torres_3\bin\Debug\5_Torres_3.pdb
-C:\Users\alumno\Documents\Visual Studio 2015\Projects\5_Torres_3\5_Torres_3\obj\Debug\5_Torres_3.exe
-C:\Users\alumno\Documents\Visual Studio 2015\Projects\5_Torres_3\5_Torres_3\obj\Debug\5_Torres_3.pdb
